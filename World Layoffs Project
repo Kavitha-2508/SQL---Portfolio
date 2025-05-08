@@ -1,0 +1,5 @@
+### 🌍 World Layoffs Project
+- Cleaned and analyzed global layoff trends using staging and CTEs.
+- Tools: CTEs, filtering, date handling.
+
+📄 [See queries](./layoffs_project/clean_layoffs_cte.sql)
