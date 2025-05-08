@@ -1,1 +1,31 @@
-# SQL---Portfolio
+# SQL Portfolio
+
+Welcome to my SQL project portfolio! This repo includes a collection of hands-on SQL projects and practice queries developed as part of my journey to becoming a data analyst.
+
+---
+
+## 📁 Projects
+
+### 🏞️ Parks & Recreation Project
+- Used joins and aggregation to analyze employee salary and department trends.
+- Tools: Joins, GROUP BY, CASE, filtering.
+
+📄 [See queries](./parks_project/queries.sql)
+
+---
+
+### 🌍 World Layoffs Project
+- Cleaned and analyzed global layoff trends using staging and CTEs.
+- Tools: CTEs, filtering, date handling.
+
+📄 [See queries](./layoffs_project/clean_layoffs_cte.sql)
+
+---
+
+### 🎯 SQL Practice
+- Various SQL query examples including:
+  - Joins
+  - GROUP BY
+  - Window functions
+
+📄 [See files](./practice_sql/)
