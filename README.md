@@ -10,7 +10,6 @@ Welcome to my SQL project portfolio! This repo includes a collection of hands-on
 - Used joins and aggregation to analyze employee salary and department trends.
 - Tools: Joins, GROUP BY, CASE, filtering.
 
-📄 [See queries](./parks_project/queries.sql)
 
 ---
 
@@ -18,7 +17,6 @@ Welcome to my SQL project portfolio! This repo includes a collection of hands-on
 - Cleaned and analyzed global layoff trends using staging and CTEs.
 - Tools: CTEs, filtering, date handling.
 
-📄 [See queries](./layoffs_project/clean_layoffs_cte.sql)
 
 ---
 
@@ -28,4 +26,3 @@ Welcome to my SQL project portfolio! This repo includes a collection of hands-on
   - GROUP BY
   - Window functions
 
-📄 [See files](./practice_sql/)
