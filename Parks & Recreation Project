@@ -1,5 +1,0 @@
-### 🏞️ Parks & Recreation Project
-- Used joins and aggregation to analyze employee salary and department trends.
-- Tools: Joins, GROUP BY, CASE, filtering.
-
-📄 [See queries](./parks_project/queries.sql)
