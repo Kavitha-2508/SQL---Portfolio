@@ -1,3 +1,5 @@
+This repository showcases my SQL projects involving data exploration, transformation, and insights generation.
+
 # SQL Portfolio
 
 Welcome to my SQL project portfolio! This repo includes a collection of hands-on SQL projects and practice queries developed as part of my journey to becoming a data analyst.
